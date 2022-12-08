@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75f628d5.css",
+    "main.js": "/static/js/main.cf7a8e9b.js",
+    "static/media/rune.ttf": "/static/media/rune.bf7323f881c42133d36b.ttf",
+    "index.html": "/index.html",
+    "main.75f628d5.css.map": "/static/css/main.75f628d5.css.map",
+    "main.cf7a8e9b.js.map": "/static/js/main.cf7a8e9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f628d5.css",
+    "static/js/main.cf7a8e9b.js"
+  ]
+}
